@@ -1,0 +1,6 @@
+{
+    "color1": "#00000",
+    "color2": "#00000",
+    "version": "10",
+    "whitelist": ["Ford", "BMW"]
+}
