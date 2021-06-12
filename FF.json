@@ -2,5 +2,6 @@
     "color1": "#00000",
     "color2": "#00000",
     "version": "10",
+    "motd": "uhh what",
     "whitelist": [ "16d18781-6df2-469d-930b-5676fae830d0", "BMW" ]
 }
